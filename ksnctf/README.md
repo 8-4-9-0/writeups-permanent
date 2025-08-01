@@ -1,4 +1,7 @@
 # ksnctf Writeup
+https://ksnctf.sweetduet.info
+
+
 https://ksnctf.sweetduet.info/faq より、本writeupではフラグの文字列は公開していない。
 
 現在解けている問題：
